@@ -45,8 +45,8 @@
 
  <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
- [![Linkedin: Felipe Augusto](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-augusto-78b352198/")](https://www.linkedin.com/in/felipe-augusto-78b352198/")
- [![Instagram: Felipe Augusto](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/felipe_augusto_.s/")](https://www.instagram.com/felipe_augusto_.s")
+ [![Linkedin: Leonardo Souza](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-souza-218663194/")](https://www.linkedin.com/in/felipe-augusto-78b352198/")
+ [![Instagram: Leonardo Souza](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/leo.filho.01/")](https://www.instagram.com/leo.filho.01/")
  
  
  <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
