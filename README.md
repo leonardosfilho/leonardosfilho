@@ -3,7 +3,7 @@
 <h3> 👱‍♂️: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Analise e Desenvolvimento de Sistemas** na <a href="https://www.uninassau.edu.br/">Uninassau</a>.
+- 🎓 &nbsp; Estudando **Analise e Desenvolvimento de Sistemas** na <a href="https://www.uninassau.edu.br](https://descomplica.com.br/">Descomplica</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **HTML,CSS,JS,Java,Phyton,Linux,Shell-Script**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
