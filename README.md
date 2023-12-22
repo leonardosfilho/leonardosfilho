@@ -11,10 +11,8 @@
 - 🌱 &nbsp; Aprendendo mais sobre **ReactJS,NodeJS**.
 - 💙 <a href="https://www.linkedin.com/in/leonardo-de-souza-filho-218663194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo de souza filho" height="30" width="40" /></a>
 </div>
-<h3 align="left"> :rocket: &nbsp;Minhas Skills </h3>
-
-
 <br>
+<h3 align="left"> :rocket: &nbsp;Minhas Skills </h3>
 <div align="left" text-align="left" >
   <h4> Front-End <h4>
     
