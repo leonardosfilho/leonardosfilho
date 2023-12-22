@@ -17,7 +17,7 @@
 </p>
 
 <br>
-<div display="flex" gap="2px">
+<div display="flex" gap="5px">
   <h4 align="left"> Front-End <h4>
     
 <p align="left">
