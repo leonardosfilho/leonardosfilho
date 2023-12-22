@@ -1,4 +1,4 @@
-<h1 align="center">Ola!👋,me chamo Leonardo</h1>
+<h1 align="center">Ola!👋 bem-vindo(a)</h1>
 <h3 align="center">Desenvolvedor Full Stack (Brasil)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardosfilho&label=Profile%20views&color=0e75b6&style=flat" alt="leonardosfilho" /> </p>
