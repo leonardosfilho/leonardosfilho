@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Analise e Desenvolvimento de Sistemas** na <a href="https://www.uninassau.edu.br](https://descomplica.com.br/">Descomplica</a>.<br>
--📫 E-mail para contato: **leonardosfilho21@gmail.com**
+- 📫 E-mail para contato: **leonardosfilho21@gmail.com**
 - 🌱 &nbsp; Aprendendo mais sobre **ReactJS,NodeJS**.
 - 💙 <a href="https://www.linkedin.com/in/leonardo-de-souza-filho-218663194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo de souza filho" height="30" width="40" /></a>
 </div>
