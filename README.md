@@ -42,6 +42,7 @@
 
 <p align="left">
  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
  <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
