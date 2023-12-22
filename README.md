@@ -6,14 +6,12 @@
 - 🎓 &nbsp; Estudando **Analise e Desenvolvimento de Sistemas** na <a href="https://www.uninassau.edu.br](https://descomplica.com.br/">Descomplica</a>.
 - - 📫 E-mail para contato: **leonardosfilho21@gmail.com**
 - 🌱 &nbsp; Aprendendo mais sobre **ReactJS,NodeJS**.
+- 💙 <a href="https://linkedin.com/in/leonardo de souza filho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo de souza filho" height="30" width="40" /></a>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/leonardo de souza filho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo de souza filho" height="30" width="40" /></a>
+
 </p>
 
 <br>
