@@ -50,7 +50,7 @@
    </p>
    </div>
    <br>
-<div display="flex">
+<div display="flex" Gap="5">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardosfilho&show_icons=true&locale=en&layout=compact" alt="leonardosfilho" /></p>
 
 
