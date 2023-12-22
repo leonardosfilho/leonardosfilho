@@ -36,13 +36,13 @@
 
 <br/>
 
-
-[![leonardosfilho ](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosfilho&hide=html&layout=compact=true&theme=radical)](https://github.com/leonardosfilho/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+<!--[![leonardosfilho ](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosfilho&hide=html&layout=compact=true&theme=radical)](https://github.com/leonardosfilho/)!-->
 [![card](https://github-readme-stats.vercel.app/api?username=leonardosfilho&theme=radical)](https://github.com/leonardosfilho/)
 
 <p align="left">
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 
  <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
