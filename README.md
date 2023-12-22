@@ -11,7 +11,7 @@
 - 🌱 &nbsp; Aprendendo mais sobre **ReactJS,NodeJS**.
 - 💙 <a href="https://www.linkedin.com/in/leonardo-de-souza-filho-218663194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo de souza filho" height="30" width="40" /></a>
 </div>
-<h3 align="center"> :rocket: &nbsp;Minhas Skills </h3>
+<h3 align="left"> :rocket: &nbsp;Minhas Skills </h3>
 
 
 <br>
@@ -31,7 +31,7 @@
      <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
    <br>
-   <h4 align="center"> Banco de Dados <h4>
+   <h4 align="left"> Banco de Dados <h4>
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
       <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     <br>
@@ -52,8 +52,8 @@
    </div>
    <br>
 <div display="flex">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardosfilho&show_icons=true&locale=en&layout=compact" alt="leonardosfilho" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardosfilho&show_icons=true&locale=en&layout=compact" alt="leonardosfilho" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardosfilho&show_icons=true&locale=en" alt="leonardosfilho" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=leonardosfilho&show_icons=true&locale=en" alt="leonardosfilho" /></p>
 </div>
