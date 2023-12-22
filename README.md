@@ -1,6 +1,6 @@
 <h1 align="center"> Full Stack Developer </h1>
 # My gif
-![](https://komarev.com/ghpvc/?username=leonardosfilho&color=006bed.gif)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardosfilho&label=Profile%20views&color=0e75b6&style=flat" alt="leonardosfilho" /> </p>
 <h3> 👱‍♂️: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
