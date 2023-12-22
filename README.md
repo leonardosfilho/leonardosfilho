@@ -1,6 +1,6 @@
 <h1 align="center"> Full Stack Developer </h1>
 # My gif
-![](https://komarev.com/ghpvc/?username=leonardosfilho&color=006bed)
+![](https://komarev.com/ghpvc/?username=leonardosfilho&color=006bed) <br>
 ![](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMyNTU3MTMsIm5iZiI6MTcwMzI1NTQxMywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjIyVDE0MzAxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQzMGM2MzIzMmYwZWU4M2U2NjkyNzBjMTczYTUyNTUwN2RkYjBkYWUzYTRkZTA3NDY2MzEzOTM2MGIxZGM2NWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.zrgOmMrB1WVNdPodWWXJYeFnslhXUW3qfEGDNo4y7UM)
 <br>
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
