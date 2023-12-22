@@ -2,15 +2,15 @@
 <h1 align="center"> Full Stack Developer </h1>
 
 ![](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMyNTU3MTMsIm5iZiI6MTcwMzI1NTQxMywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjIyVDE0MzAxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQzMGM2MzIzMmYwZWU4M2U2NjkyNzBjMTczYTUyNTUwN2RkYjBkYWUzYTRkZTA3NDY2MzEzOTM2MGIxZGM2NWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.zrgOmMrB1WVNdPodWWXJYeFnslhXUW3qfEGDNo4y7UM)
-
-<h3> 👱‍♂️: &nbsp;Sobre mim </h3>
+<div>
+<h3 align="center"> 👱‍♂️: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Analise e Desenvolvimento de Sistemas** na <a href="https://www.uninassau.edu.br](https://descomplica.com.br/">Descomplica</a>.
 - - 📫 E-mail para contato: **leonardosfilho21@gmail.com**
 - 🌱 &nbsp; Aprendendo mais sobre **ReactJS,NodeJS**.
 - 💙 <a href="https://www.linkedin.com/in/leonardo-de-souza-filho-218663194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo de souza filho" height="30" width="40" /></a>
-
+</div>
 <h3 align="center"> :rocket: &nbsp;Minhas Skills </h3>
 
 
