@@ -11,18 +11,15 @@
 - 🌱 &nbsp; Aprendendo mais sobre **ReactJS,NodeJS**.
 - 💙 <a href="https://www.linkedin.com/in/leonardo-de-souza-filho-218663194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo de souza filho" height="30" width="40" /></a>
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3 align="center"> :rocket: &nbsp;Minhas Skills </h3>
 
-<p align="center">
-
-</p>
 
 <br>
 <div padding-right="5px">
   <h4 align="center"> Front-End <h4>
     
 <p align="center">
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" align="center"/> 
   </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <br>
  <h4 align="center"> Back-End <h4>
