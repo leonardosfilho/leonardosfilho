@@ -1,5 +1,5 @@
 # 💫 About Me:
-👱‍♂️:  Sobre mim<br>🤔   Explorando novas tecnologias e desenvolvendo soluções de software.<br>🎓   Estudando Analise e Desenvolvimento de Sistemas na Descomplica.<br>📫 E-mail para contato: leonardosfilho21@gmail.com<br>🌱   Aprendendo mais sobre ReactJS,NodeJS.
+🤔Exploring new technologies and developing software solutions <br>🎓 Estudando Analise e Desenvolvimento de Sistemas na Descomplica <br>📫 Contact email: leonardosfilho21@gmail.com<br>🌱 Learning more about ReactJS, NodeJS.
 
 
 ## 🌐 Socials:
